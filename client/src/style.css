@@ -1,0 +1,68 @@
+body{
+    background-color: #343a40;
+}
+.cartsimble{
+    position: absolute;
+    left: 11px;
+    top: -2px;
+    text-align: center;
+    border-radius: 7px;
+    width: 21px;
+    height: 21px;
+    background-color: #ff6161;
+    border: 1px solid #fff;
+    font-weight: 400;
+    color: #f0f0f0;
+    line-height: 16px;
+    font-size: 12px;
+}
+  /* .MuiFormControl-root {
+      width: 100%;
+  } */
+  .buttonTrue {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #000;
+    background-color: yellow;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .buttonFalse {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: red;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .btn_class{
+      background-color: #74B9FF;
+  }
+  .default {
+    background: #ddd;
+    padding: 10px 0px;
+    border-bottom:2px solid gray;
+    margin-bottom: 2px;
+   
+  
+  }
+  .bkcolor {
+    background: #08c;
+    padding: 10px 0px;
+    color:white
+   
+  }
